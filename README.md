@@ -13,7 +13,7 @@
 
 ## About Me ✨
 
-I’m a **Full Stack & Mobile Developer** with **1+ year of experience** building high-quality applications for both **web and mobile platforms**.  
+I’m a **Full Stack & Mobile Developer** with **2+ year of experience** building high-quality applications for both **web and mobile platforms**.  
 I specialize in creating **fast, scalable, and user-friendly mobile applications using React Native** for Android and iOS.
 
 I have hands-on experience in **API integrations, navigation flows, APK generation, Play Store publishing**, and building **modern responsive web applications** using React.js and Vite.  
